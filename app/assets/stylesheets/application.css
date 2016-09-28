@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+.location {
+ 	background-color: green;
+ }
+ .from {
+ 	color: white;
+ }
+ .excited {
+ 	color: orange;
+  text-decoration: underline;
+
+ }
+ .fact {
+ 	color: red;
+  text-decoration: bold;
+ }
+
+ 
